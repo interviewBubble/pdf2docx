@@ -5,6 +5,7 @@ Convert a PDF to docx using abiword, PDF should be located in same directory you
 First build/pull the image:
 
 `docker build -t itmadublin/pdf2docx .`
+
 `docker pull itmadublin/pdf2docx`
 
 To run:
